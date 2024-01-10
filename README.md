@@ -12,3 +12,6 @@ description: # ^
 imagepath: # the filesystem path or web URL to the image you want to use for the game, such as an icon or box art
 genre: # again, self explanatory, this can be just one genre (like "RPG") or multiple (like "Shooter, Battle Royale")
 ```
+
+# Can I install this?
+Yes, it's on my website: https://littlebitstudios.com/software/gamelibrary
